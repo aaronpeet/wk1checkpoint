@@ -17,3 +17,13 @@ main {
 .shadow {
     text-shadow: 1px 1px black;
 }
+
+.bg-primary {
+    background-color: rgba(247, 152, 97, 0.979);
+}
+
+@media screen and (max-width: 768px) {
+    .textOverImage {
+        visibility: hidden;
+    }
+}
