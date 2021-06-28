@@ -20,6 +20,20 @@ main {
     text-shadow: 1px 1px black;
 }
 
+.img2 {
+    min-height: 300px;
+    min-width: 200px;
+}
+
+.card-flex {
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.spill {
+    bottom: -90px;
+}
+
 .bg-primary {
     background-color: rgba(247, 152, 97, 0.979);
 }
