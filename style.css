@@ -30,6 +30,11 @@ main {
     min-height: 300px;
 }
 
+.card-flex-md {
+    min-height: 350;
+    min-width: 300;
+}
+
 .spill {
     bottom: -90px;
 }
